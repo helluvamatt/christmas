@@ -4,5 +4,5 @@ title: Christmas
 
 # Christmas Lists 2017
 
-Last Updated: {% last_modified_at %}
+Last Modified: Sept. 17, 2017
 
